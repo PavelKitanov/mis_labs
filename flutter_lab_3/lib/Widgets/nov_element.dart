@@ -15,10 +15,6 @@ class _NovElementState extends State<NovElement> {
   final _predmetController = TextEditingController();
   final _datumVremeController = TextEditingController();
 
-  late String predmet;
-  late String datum;
-  late String vreme;
-
   void _submitData() {
     if (_datumVremeController.text.isEmpty) {
       return;

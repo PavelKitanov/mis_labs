@@ -75,9 +75,9 @@ class _MyHomePageState extends State<MyHomePage> {
                       horizontal: 10,
                     ),
                     child: ListTile(
-                      title: Text("Predmet: ${_userItems[index].predmet}"),
+                      title: Text("Subject: ${_userItems[index].predmet}"),
                       subtitle: Text(
-                          "Datum: ${_userItems[index].datum.toString().split(" ")[0]} Vreme: ${_userItems[index].vreme.format(context)}"),
+                          "Date: ${_userItems[index].datum.toString().split(" ")[0]} Time: ${_userItems[index].vreme.format(context)}"),
                       trailing: IconButton(
                         icon: Icon(Icons.delete),
                         onPressed: () => _deleteItem(_userItems[index].id),
