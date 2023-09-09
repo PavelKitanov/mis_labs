@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779388227647",
+    "project_id": "firabaseauth-f6cd5",
+    "storage_bucket": "firabaseauth-f6cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779388227647:android:464f2929ba09fe47a7a88a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779388227647-ft86ovi1mjp9lb4m0n4uev5244bobeo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFjMm44yRtfMsdo3djkFvT6YsxAwlfhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779388227647-ft86ovi1mjp9lb4m0n4uev5244bobeo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
