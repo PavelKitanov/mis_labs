@@ -1,16 +1,7 @@
-# flutter_lab_4
+<p align="center">
+  <b>Demo:</b> 
+</p>
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/PavelKitanov/mis_labs/assets/85138305/ed21716c-a92f-4118-90af-cb5c9c909bcd
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
